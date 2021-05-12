@@ -7,7 +7,7 @@ Link da documentação:
 https://selenium-python.readthedocs.io/
 ```
 
-Para confirar o chromedriver como variavel de ambiante, seguir o tutorial abaixo:
+Para configurar o chromedriver como variavel de ambiante, seguir o tutorial abaixo:
 
 ```url
 https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/
