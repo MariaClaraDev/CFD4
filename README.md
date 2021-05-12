@@ -1,4 +1,3 @@
-## Patch
 
 Neste projeto será necessario utilizar Selenium.
 
